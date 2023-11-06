@@ -1,0 +1,74 @@
+[
+    {
+        "date": "1-5",
+        "month": "Aug",
+        "location": "Pearland TX",
+        "desc": "Violin workshop for the violin students"
+    },
+    {
+        "date": "6",
+        "month": "Aug",
+        "location": "Pearland TX",
+        "desc": "Vocal concert at Meenakshi temple"
+    },
+    {
+        "date": "12",
+        "month": "Aug",
+        "location": "KSHT, Frisco TX",
+        "desc": " Vocal concert"
+    },
+    {
+        "date": "13",
+        "month": "Aug",
+        "location": "Frisco TX",
+        "desc": "Vocal & Violin workshop"
+    },
+    {
+        "date": "20",
+        "month": "Aug",
+        "location": "Frisco TX",
+        "desc": "Violin Solo (Chamber music )"
+    },
+    {
+        "date": "22-26",
+        "month": "Aug",
+        "location": "Cary NC",
+        "desc": "Vocal Workshop"
+    },
+    {
+        "date": "27",
+        "month": "Aug",
+        "location": "Cary NC",
+        "desc": "Vocal concert"
+    },
+    {
+        "date": "2-3",
+        "month": "Sep",
+        "location": "Swati Thirunal kritis, Charlotte NC",
+        "desc": "Vocal workshop"
+    },
+    {
+        "date": "10",
+        "month": "Sep",
+        "location": "Tampa FL",
+        "desc": "Vocal concert"
+    },
+    {
+        "date": "16",
+        "month": "Sep",
+        "location": "Seattle WA",
+        "desc": "Violin Solo"
+    },
+    {
+        "date": "17",
+        "month": "Sep",
+        "location": "SIFAA RALEIGH NC",
+        "desc": "Violin Solo"
+    },
+    {
+        "date": "24",
+        "month": "Sep",
+        "location": "SBAT, Maryland",
+        "desc": "Vocal concert"
+    }
+]

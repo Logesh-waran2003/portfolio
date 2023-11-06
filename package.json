@@ -1,0 +1,39 @@
+{
+  "name": "Bu Ganesh",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@cloudinary/react": "1.9.0",
+    "@cloudinary/url-gen": "1.8.7",
+    "classnames": "^2.3.2",
+    "gsap": "^3.12.2",
+    "pure-react-carousel": "^1.30.1",
+    "react": "16.8.0",
+    "react-carousel-slider": "^2.0.13",
+    "react-dom": "16.8.0",
+    "react-icons": "^4.10.1",
+    "react-modal-image": "^2.6.0",
+    "react-player": "^2.12.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "react-spring-3d-carousel": "1.2.0",
+    "slick-carousel": "^1.8.1",
+    "use-sound": "^4.0.1",
+    "uuid": "3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "post-update": "yarn upgrade"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
